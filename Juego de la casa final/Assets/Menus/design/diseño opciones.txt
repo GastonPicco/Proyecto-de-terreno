@@ -1,0 +1,30 @@
+Opciones
+
+>Sonido
+	Musica (BGM)
+	Sonido Efectos (SFX);
+	Sondio Ambiental (BGS);
+
+>Graficos
+	Antialias
+	Sombras
+	
+>Pantalla
+	ResoluciÓn
+	Tipo de pantalla (Fullscreen, ventana y borderless)
+
+
+
+>controles
+	Click Izquierdo - Moverte
+	Click Derecho - Interactuar / Confirmar Construcción
+	Scrooll Weeel - Zoom Camara
+    Q/E Rotar Camara
+
+	A - Confirmar ConstrucciÓn
+	B - Panel Construir
+	R - Rotar Construcción
+
+	G - Soltar Item
+
+	Esc - Pausa
